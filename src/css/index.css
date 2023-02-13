@@ -1,0 +1,57 @@
+body{
+    background-color: rgb(209, 209, 209);
+    margin: 0;
+    padding: 0;
+}
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 360%;
+    float: right;
+    position: relative;
+    top: 8vh;
+    right: 53vh;
+}
+.navBar{
+    background-color:hsla(160, 61%, 29%, 0.81);
+    font-size: 25px;
+    height: 5vh;
+}
+.navBar a{
+    color: rgb(128, 0, 128);
+    margin: 30px;
+    text-decoration: underline;
+}
+.homeTxt{
+    width: 400px;
+    text-align: justify;
+    float:right;
+    position: relative;
+    top: 15vh;
+    right: 60vh;
+}
+.homeTxt p{
+    width: 200px;
+}
+.head{
+    text-align: left;
+}
+.homePhoto{
+    position: relative;
+    bottom: 5vh;
+    left: 8vh;
+}
+.aboutContainer{
+    box-sizing: border-box;
+    border: 1px solid black;
+    position: relative;
+    top: 100vh
+}
+.linkList img{
+    width: 40px;
+    height: 40px;
+    position: relative;
+    top: -6.5vh;
+    margin: 5px;
+    right: 1px;
+}
